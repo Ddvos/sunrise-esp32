@@ -18,7 +18,6 @@ const char* MQTT_PASS = "esp32password";
 // Topic to control LED
 const char* LED_TOPIC = "esp32/led";
 
-// certifacte
 const char* MQTT_CA_CERT = R"EOF(
 -----BEGIN CERTIFICATE-----
 MIIFazCCA1OgAwIBAgIRAIIQz7DSQONZRGPgu2OCiwAwDQYJKoZIhvcNAQELBQAw
